@@ -1,9 +1,45 @@
-Wallpaper Hub - Flutter App
-Wallpaper Hub is a Flutter-based mobile application that provides users with a vast collection of high-quality wallpapers categorized for easy navigation. The app allows users to browse, download, and set wallpapers with a single click. It also features a favorites section where users can save their preferred wallpapers for quick access.
+🖼️ Wallpaper Hub – Flutter App
 
-Features:
-Home Screen: Displays a selection of featured wallpapers and recent additions, along with quick access to different categories.
-Categories: Browse wallpapers by category, including Abstract, Art, Nature, Gaming, and more.
-Favorites: Save your favorite wallpapers to easily find and use them later.
-Profile & Settings: Manage app settings such as push notifications, and access options to rate the app, provide feedback, and read privacy policies.
-Single Click Download: Easily download wallpapers with a single click.
+![Wallpaper Banner](assets/images/Wallpaper.png)
+
+
+Wallpaper Hub is a beautifully designed Flutter app that brings you a massive collection of high-quality wallpapers—categorized, curated, and just a tap away. Whether you're into abstract art, nature, gaming, or minimalism, Wallpaper Hub helps you personalize your phone effortlessly.
+
+✨ Key Features
+🏠 Home Screen
+Discover featured wallpapers and the latest additions, all in one swipeable view.
+
+🗂️ Categories
+Browse by style and mood—choose from Abstract, Nature, Gaming, Art, and more.
+
+❤️ Favorites
+Love a wallpaper? Save it to your favorites and access it anytime.
+
+⚙️ Profile & Settings
+Control push notifications, rate the app, send feedback, and review our privacy policy.
+
+⬇️ One-Tap Download
+Download and apply wallpapers instantly with a single tap.
+
+🚀 Built With
+Flutter & Dart
+
+Clean Architecture
+
+Responsive UI for Android & iOS
+
+📱 Screenshots
+(Add images here once available)
+[ ] Home [ ] Categories [ ] Favorites [ ] Settings
+
+📂 Project Status
+✅ Initial Release Complete
+🚧 Upcoming: Dark Mode, Wallpaper Sharing, Offline Favorites
+
+🙋‍♂️ Author
+Your Name
+🔗 LinkedIn
+📧 your.email@example.com
+
+“Personalize your screen, one wallpaper at a time.”
+
